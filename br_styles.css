@@ -13,3 +13,57 @@
 
 */
 
+/*aqua;*/
+
+body {
+    background: url(br_paper.png)
+}
+
+article#len1 {
+    border: 4px double;
+    border-radius: 30px;
+    text-align: center;
+    float: right;
+    display: inline;
+    margin-right: 15%;
+    padding: 40px;
+    width: 26%;
+
+
+}
+
+article#len2 {
+    border: 4px double;
+    border-radius: 30px;
+    text-align: center;
+    float: left;
+    display: block;
+    padding: 20px;
+    width: 50%;
+
+}
+
+img#cool {
+    width: 100%
+}
+
+nav {
+    text-align: center;
+
+}
+
+nav ul li a {
+    display: block;
+    width: 11%;
+    float: left;
+}
+
+
+nav {
+    background-color: rgb(51, 51, 51);
+    display: block;
+    font-size: 1.2em;
+    letter-spacing: 0.15em;
+    text-align: center;
+
+}
